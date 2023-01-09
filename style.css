@@ -39,8 +39,8 @@ p{
     margin-left: 10px;
 }
 
-.body{
-    height: 720px;
+body{
+    height: 100%;
 }
 
 .search-bar{
@@ -119,6 +119,7 @@ p{
 }
 
 .footer{
+    position: absolute;
     bottom:0;
-    height: 100px;
+    /* height: 100px; */
 }
