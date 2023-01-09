@@ -1,0 +1,124 @@
+.main{
+    margin-top: 0;
+    padding: 0;
+}
+
+.subcon {
+    margin-left: 1500px;
+    margin-right: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    gap:20px
+}
+.subcon div {
+    width: 50px;
+    height: 50px;
+  }
+
+.circle {
+    height:35px;
+    width:35px;
+    background-color: rgb(198, 72, 72);
+    border-radius: 50%;
+    font-size: 25px;
+    text-align: center;
+    line-height: 35px;
+    color: whitesmoke;
+  }
+
+p{
+    margin-top: 20px;
+}
+
+.material-icons{
+    margin-top:20px;
+    font-size:70px;
+}
+  
+.india{
+    margin-left: 10px;
+}
+
+.body{
+    height: 720px;
+}
+
+.search-bar{
+    width: 30%;
+    position: relative;
+    background: #333;
+    margin-left: 670px;
+}
+
+
+.search-bar input{
+  height: 35px;
+  width:502px;
+  text-align: center;
+  border-radius: 15px;
+  padding: 0 30px;
+
+}
+
+.search-ico {
+    position: absolute;
+    left: 10px;
+    top:8px;
+  }
+  
+.microphone-ico {
+    position: absolute;
+    right: 40px;
+    top: 8px;
+}
+
+.email-icon{
+    position: absolute;
+    right: 10px;
+    top: 8px
+}
+
+.button1{
+    margin-left:780px;
+    margin-top:15px;
+    height: 40px;
+    width: 150px;
+    border: none;
+}
+
+.button2{
+    margin-left:15px;
+    height: 40px;
+    width: 150px;
+    border: none;
+}
+
+.lang{
+    margin-right: 600px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap:10px;
+}
+
+.google_img{
+    display: block;
+    margin-top: 100px;
+    margin-left: 750px;
+    margin-right: 200px;
+    height: 300px;
+    width: 400px;
+    gap:10px
+}
+
+.subfooter{
+    margin-right: 1500px;
+    display: flex;
+    flex-direction: row-reverse;
+    gap:30px;
+}
+
+.footer{
+    bottom:0;
+    height: 100px;
+}
